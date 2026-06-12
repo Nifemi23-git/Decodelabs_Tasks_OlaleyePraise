@@ -1,5 +1,7 @@
 # Decodelabs_Tasks_OlaleyePraise
 Decodelabs Internship Tasks are contained in this Repository
+
+
 Task 1 
 The Excel File Had 309 Missing Values in the Column 'CouponCode' and it was replaced with 'No Coupon'
 Each Column was Set to the appropriate format and there was no duplicate value(s)
@@ -12,6 +14,8 @@ Total Orders: 1,200
 Number of Columns: 14
 Three Columns were added during Data Cleaning and they are Day, Month, Year.
 The Coupon Code column contained 309 missing values and was replaced with NO COUPON
+
+
 Key Insights
 The major findings from this analysis include:
 1. The dataset contains 1200 customer transactions.
